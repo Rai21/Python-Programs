@@ -1,3 +1,5 @@
+# 2. Loops: Find the factorial of a number using a loop
+
 def Factorial(num):
     if num < 1:
         return "Negativ number is not allowed"

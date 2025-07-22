@@ -1,3 +1,5 @@
+# 1. Loops: Check if a number is prime using a loop.
+
 def is_prime(num):
     if num <= 1:
         return False
